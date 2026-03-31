@@ -7,6 +7,7 @@
     documentation
   </p>
   <h1>text with environment variable</h1>
+  <h2> text deleting environment variable</h2>
 </template>
 
 <style scoped></style>
